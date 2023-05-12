@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello world"
+echo "this is to know how tosolve merge"
