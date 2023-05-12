@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "how merge complicts occurs"
+echo "this is to know how tosolve merge"
