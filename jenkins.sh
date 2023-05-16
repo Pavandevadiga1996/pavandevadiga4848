@@ -12,7 +12,7 @@ pipeline{
 																	              stage('Build-Memory details'){
 																		                      steps{
 																				      		    sh '''
-																						                        echo "disk utilsation"
+																						                        echo "MEMORY DETAILS "
 																									                    du -sch .
 																											    		    '''
 																													                    }
