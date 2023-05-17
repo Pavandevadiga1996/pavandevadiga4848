@@ -1,5 +1,7 @@
 pipeline{
-    agent any
+    agent {
+             Node-1
+	 }
            stages{
 	               stage('Build-System details'){
 		                       steps{
